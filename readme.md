@@ -18,5 +18,5 @@
 
 ## API Documentation 
 
-### `https://documenter.getpostman.com/view/3662476/Uz5CLHzc`
+([Postman Link](https://documenter.getpostman.com/view/3662476/Uz5CLHzc))
 
